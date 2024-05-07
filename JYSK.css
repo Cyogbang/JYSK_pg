@@ -646,6 +646,10 @@ footer {
         padding: 1rem;
     }
 
+    #cat-span {
+        display: none;
+    }
+
     .headings {
         gap: 1rem;
         font-size: 0.9rem;
@@ -689,7 +693,7 @@ footer {
     }
     
     .impressions {
-        gap: 7rem;
+        gap: 1rem;
     }
 
     .display_IMG {
